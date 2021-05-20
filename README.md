@@ -2,7 +2,7 @@
 
 Front-end Developer, amante do automobilismo.
 
-Buscando atualmente uma oportunidade em uma equipe de desegnvolvimento para contrubuir e aprender muito.
+Buscando atualmente uma oportunidade em uma equipe de desenvolvimento para contrubuir e aprender muito.
 
 # Tecnologias
 
