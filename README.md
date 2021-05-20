@@ -26,5 +26,5 @@ Buscando atualmente uma oportunidade em uma equipe de desenvolvimento para contr
 
 # Redes Sociais
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo" /> (https://www.linkedin.com/in/luan-dias-3814581a3/)
+[ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logo" /> ](https://www.linkedin.com/in/luan-dias-3814581a3/)
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /> (https://codepen.io/LuanD)
